@@ -1,0 +1,13 @@
+{
+    "stock": "AAPL",
+    "news": "Apple Unveils iPhone 17 as Cramer Labels It His \u2018Quarterback Stock\u2019",
+    "analyst": "Jim Cramer",
+    "sentiment": {
+        "overall": "positive",
+        "specifics": {
+            "product_launch": "positive",
+            "analyst_opinion": "favorable",
+            "market_reaction": "anticipated to be positive"
+        }
+    }
+}
